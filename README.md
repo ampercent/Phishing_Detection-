@@ -47,7 +47,7 @@ Click "Check URL" for an instant security assessment.
 Installation
 To run Phishing Detection locally, follow these steps:
 
-Clone the repository: git clone https://github.com/ashhh-xi/Phishguard.git
+Clone the repository
 
 Install the required dependencies: pip install -r requirements.txt
 
